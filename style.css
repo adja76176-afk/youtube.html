@@ -1,0 +1,227 @@
+body {
+    background-color: white;
+}
+
+.principal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 17px;
+    background: white;
+    border-bottom: 1px solid whitesmoke;
+    position: sticky;
+}
+
+.P-left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo {
+    color: black;
+}
+
+.P-center {
+    display: flex;
+    align-items: center;
+    width: 50%;
+ 
+}
+
+.P-center input {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 20px 0 0 20px;
+}
+
+.P-center button {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-left: none;
+    border-radius: 0 20px 20px 0;
+}
+
+.P-right {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.create {
+    padding: 6px 12px;
+    border-radius: 20px;
+    background: #efebeb;
+}
+
+.profil {
+    width: 35px;
+    height: 35px;
+    background: rgb(16, 57, 16);
+    color: whitesmoke;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 27px;
+}
+.icons{
+    margin-left: 1%;
+}
+.home{
+    margin-top: -100px
+}
+
+.contenus {
+    display: flex;
+    gap: 50px;
+    margin-left: 90px;
+    align-items: center;
+}
+
+.contenus button {
+    border: #9b9999;
+    border-radius: 10px;
+    width: 200px;
+    height: 34px;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    display: flex;
+}
+
+.contenus a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.black span {
+    color: white;
+    align-items: center;
+}
+
+.serie {
+    width: 200px;
+    display: flex;
+}
+
+.commande {
+    gap: 40px;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+
+}
+
+.videos {
+    display: flex;
+    gap: 40px;
+    margin-left: 125px;
+    margin-top: -260px;
+
+}
+
+.v1 video {
+
+    border: black;
+    border-radius: 10px;
+    background-color: black;
+
+
+}
+.v3 video {
+    
+     border: black;
+    border-radius: 10px;
+    background-color: black;
+}
+.v4 video{
+     border: black;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 33px;
+}
+
+.nff{
+    margin-left: 33px;
+}
+.log {
+    margin-bottom: 15px;
+    font-size: 10px;
+}
+.log1{
+    margin-bottom: 40px;
+    font-size: 10px;
+}
+
+.description {
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    font-weight: bold;
+}
+.description1{
+     font-size: 20px;
+    text-align: center;
+    display: flex;
+    font-weight: bold;
+}
+
+
+.logdes {
+    gap: 10px;
+    justify-content: center;
+}
+
+.grandvid {
+    flex-direction: column;
+
+}
+
+.v2 video {
+    border: black;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.videos1 {
+    display: flex;
+    gap: 40px;
+    margin-left: 135px;
+    margin-top: 80px;
+}
+.sous{
+    font-size: 15px;
+    color: #9b9999 ;
+}
+.sous1{
+    font-size: 15px;
+    color: #9b9999 ;
+}
+.video5 video{
+     border: black;
+    border-radius: 10px;
+    background-color: black;
+}
+.log5{
+    margin-bottom: 40px;
+    font-size: 10px;
+}
+.description5{
+     font-size: 20px;
+    text-align: center;
+    display: flex;
+    font-weight: bold;
+}
+.sous5{
+    font-size: 15px;
+    color: #9b9999 ;
+}
+.video5{
+    margin-left: 60px;
+}
